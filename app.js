@@ -36,5 +36,5 @@ function consoleText(words, id, colors) {
 }
 
 setInterval(function () {
-	$('.hidden').removeClass('hidden');
+	document.getElementByClassName('.hidden').removeClass('hidden');
 }, 9000);
