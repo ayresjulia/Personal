@@ -1,0 +1,64 @@
+body {
+	font-family: 'Abhaya Libre', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Work Sans', sans-serif;
+}
+/* J.A. logo navbar */
+#logo {
+	height: 50px;
+}
+
+a {
+	color: grey;
+}
+
+#text {
+	font-size: 35px;
+	font-family: 'Abhaya Libre', serif;
+}
+
+/* typewriter  */
+
+.hidden {
+	opacity: 0;
+}
+.console-container {
+	text-align: center;
+	height: 200px;
+	width: 600px;
+	display: block;
+	position: absolute;
+	color: white;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.console-underscore {
+	display: inline-block;
+	position: relative;
+	top: -0.14em;
+	left: 10px;
+}
+
+#mypic {
+	height: 300px;
+	border-radius: 50%;
+}
+
+#footer {
+	background-color: #eeeefa;
+	padding: 10px;
+}
+
+.footer {
+	padding: 5px;
+}
