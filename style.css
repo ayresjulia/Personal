@@ -23,12 +23,12 @@ a {
 	font-size: 35px;
 	font-family: 'Abhaya Libre', serif;
 }
+.d-none {
+	opacity: 0;
+}
 
 /* typewriter  */
 
-.hidden {
-	opacity: 0;
-}
 .console-container {
 	text-align: center;
 	height: 200px;
