@@ -17,6 +17,7 @@ h6 {
 
 a {
 	color: grey;
+	text-decoration: none;
 }
 
 #text {
@@ -61,4 +62,10 @@ a {
 
 .footer {
 	padding: 5px;
+}
+
+.link:hover {
+	transform: scale(1.1);
+	text-shadow: 2px 2px 3px #6900ec;
+	transition: all .2s ease-in-out;
 }
